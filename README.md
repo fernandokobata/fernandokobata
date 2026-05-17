@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou Fernando
 
-<!--
-**fernandokobata/fernandokobata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de TI focado em Monitoramento, Observabilidade e Operações de Infraestrutura.
 
-Here are some ideas to get you started:
+Atuo em ambientes de Command Center/NOC realizando monitoração de ambientes críticos, análise de incidentes, troubleshooting e acompanhamento de disponibilidade utilizando ferramentas de observabilidade e monitoramento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 📊 Monitoramento & Observabilidade
+- Zabbix
+- Datadog
+- Grafana
+- Elasticsearch
+- Kibana
+
+### 🖥️ Infraestrutura & Sistemas
+- Linux
+- Windows Server
+- Active Directory
+- Docker
+- Hyper-V
+
+### ⚙️ Automação & Scripts
+- PowerShell
+- Bash
+- Automação de rotinas operacionais
+
+### 🛠️ ITSM & Operações
+- Jira Service Management
+- GLPI
+- Gestão de Incidentes
+- Monitoramento 24x7
+- Escalonamento Operacional
+
+---
+
+## 📚 Atualmente estudando
+- Observabilidade avançada
+- Cloud Computing
+- DevOps
+- Elastic Stack
+- Automação de infraestrutura
+- Análise de Dados aplicada a monitoramento
+
+---
+
+## 📈 Objetivos Profissionais
+Busco evoluir na área de Infraestrutura, Observabilidade e SRE, aprofundando conhecimentos em:
+- Monitoramento de ambientes críticos
+- Cloud & Containers
+- Automação
+- Alta disponibilidade
+- Engenharia de Confiabilidade (SRE)
+
+---
+
+## ⚡ Curiosidade
+Gosto de criar laboratórios de infraestrutura para estudos utilizando virtualização, Docker e ferramentas de monitoramento.
