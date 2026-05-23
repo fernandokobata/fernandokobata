@@ -10,7 +10,6 @@ Atuo em ambientes de Command Center/NOC realizando monitoração de ambientes cr
 
 ### 📊 Monitoramento & Observabilidade
 - Zabbix
-- Datadog
 - Grafana
 - Elasticsearch
 - Kibana
