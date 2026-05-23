@@ -27,7 +27,6 @@ Atuo em ambientes de Command Center/NOC realizando monitoração de ambientes cr
 - Automação de rotinas operacionais
 
 ### 🛠️ ITSM & Operações
-- Jira Service Management
 - GLPI
 - Gestão de Incidentes
 - Monitoramento 24x7
